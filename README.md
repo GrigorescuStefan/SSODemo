@@ -27,8 +27,8 @@ This project demonstrates how to implement Single Sign-On (SSO) in a Node.js Exp
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/GrigorescuStefan/singleSignOnDemo.git
-cd singleSignOnDemo
+git clone https://github.com/GrigorescuStefan/SSODemo.git
+cd SSODemo/
 npm install
 ```
 ### 2. Configure Auth0

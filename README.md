@@ -32,7 +32,7 @@ cd SSODemo/
 npm install
 ```
 ### 2. Configure Auth0
-- Created a user and tenant via [Auth0's management dashboard](manage.auth0.com).
+- Created a user and tenant via [Auth0's management dashboard](https://manage.auth0.com).
 - Create a `Regular Web Application` using `Node.js (Express)` and choose to `integrate with my app`.
 - Configure the `Allowed Callback URL` and `Allowed Logout URL` to redirect users after logging in or out.
 - Configured the Issuer URL, Client ID, and Client Secret to connect the application with the Auth0 service.
